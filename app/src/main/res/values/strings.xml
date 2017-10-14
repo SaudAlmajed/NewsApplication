@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="fresh_news">"Fresh news"</string>
+    <string name="news">"News "</string>
+    <string name="no_news_found">No news found</string>
+    <string name="news_for">"News for "</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="base_url" translatable="false">https://content.guardianapis.com/search?q=</string>
+    <string name="url_tags" translatable="false"><![CDATA[&tags=news]]></string>
+    <string name="url_from_date" translatable="false"><![CDATA[&from-date=]]></string>
+    <string name="url_to_date" translatable="false"><![CDATA[&to-date=]]></string>
+    <string name="url_page" translatable="false"><![CDATA[&page=]]></string>
+    <string name="url_end" translatable="false"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=test]]></string>
+    <string name="url_section" translatable="false"><![CDATA[&section=]]></string>
+</resources>
